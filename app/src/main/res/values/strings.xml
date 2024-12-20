@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Dicoding Event</string>
+    <string name="upcoming_title">Upcoming</string>
+    <string name="finished_title">Finished</string>
+    <string name="favorite_title">Favorite</string>
+    <string name="setting_title">Setting</string>
+    <string name="home_title">Home</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="nama_event">Nama Event</string>
+    <string name="nama_owner">Nama Owner</string>
+    <string name="remaining_quota">Kuota tersisa</string>
+    <string name="two_point">:</string>
+    <string name="waktu_pelaksanaan">Waktu pelaksanaan</string>
+    <string name="begin_time">15 Oktober 12.00</string>
+    <string name="deskripsi_event">Deskripsi Event</string>
+    <string name="btn_register">Register</string>
+    <string name="event_poster">Event Poster</string>
+    <string name="quota_example">1230</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="enable_dark_mode">Enable dark mode</string>
+    <string name="daily_remainder">Daily Remainder</string>
+    <string name="enable_daily_remainder">Enable Daily Remainder</string>
+    <string name="searchbar_hint">Masukkan kata</string>
+    <string name="upcoming_event">Upcoming Event</string>
+    <string name="finished_event">Finished Event</string>
+</resources>
